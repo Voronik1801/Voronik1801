@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Voronkina Daria
-- 👀 I’m interested in Data Science in medicine and NFT
+- 👀 I’m interested in Data Science
 - 📫 How to reach me: [@voronik1801](https://t.me/voronik1801)
 
 <!---
